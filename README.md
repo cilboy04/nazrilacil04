@@ -19,7 +19,7 @@
 
 ### Desktop Preview
 
-https://github.comcilboy04/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+https://github.com/cilboy04/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
 
 ### Prerequisites
 
