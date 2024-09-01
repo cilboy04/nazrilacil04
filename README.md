@@ -1,9 +1,9 @@
 # nazrilacil04
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/cilboy04/portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/cilboy04/portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/cilboy04/portfolio-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/nazrilacil04/portfolio-website)
+  ![GitHub stars](https://img.shields.io/github/stars/nazrilacil04/portfolio-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/nazrilacil04/portfolio-website?style=social)
 
   <br />
 
