@@ -10,7 +10,7 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://cilboy04.github.io/nazrilacil04.github.io/"><strong>➥ Live Demo</strong></a>
+  <a href="https://cilboy04.github.io/nazrilacil04/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
