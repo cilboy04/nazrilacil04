@@ -2,6 +2,7 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
+    overflow-x: hidden;
 }
 /* styling menu icon */
 .nav-menu{
